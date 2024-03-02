@@ -1,0 +1,12 @@
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Utility\bin\Debug\net7.0\NetSevenCommerece.Utility.deps.json
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Utility\bin\Debug\net7.0\NetSevenCommerece.Utility.dll
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Utility\bin\Debug\net7.0\NetSevenCommerece.Utility.pdb
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Utility\obj\Debug\net7.0\NetSevenCommerece.Utility.csproj.AssemblyReference.cache
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Utility\obj\Debug\net7.0\NetSevenCommerece.Utility.GeneratedMSBuildEditorConfig.editorconfig
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Utility\obj\Debug\net7.0\NetSevenCommerece.Utility.AssemblyInfoInputs.cache
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Utility\obj\Debug\net7.0\NetSevenCommerece.Utility.AssemblyInfo.cs
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Utility\obj\Debug\net7.0\NetSevenCommerece.Utility.csproj.CoreCompileInputs.cache
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Utility\obj\Debug\net7.0\NetSevenCommerece.Utility.dll
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Utility\obj\Debug\net7.0\refint\NetSevenCommerece.Utility.dll
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Utility\obj\Debug\net7.0\NetSevenCommerece.Utility.pdb
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Utility\obj\Debug\net7.0\ref\NetSevenCommerece.Utility.dll

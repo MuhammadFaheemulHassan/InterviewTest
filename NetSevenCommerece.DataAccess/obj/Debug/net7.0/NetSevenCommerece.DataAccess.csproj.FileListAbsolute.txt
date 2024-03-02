@@ -1,0 +1,17 @@
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.DataAccess\obj\Debug\net7.0\NetSevenCommerece.DataAccess.csproj.AssemblyReference.cache
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.DataAccess\obj\Debug\net7.0\NetSevenCommerece.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.DataAccess\obj\Debug\net7.0\NetSevenCommerece.DataAccess.AssemblyInfoInputs.cache
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.DataAccess\obj\Debug\net7.0\NetSevenCommerece.DataAccess.AssemblyInfo.cs
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.DataAccess\obj\Debug\net7.0\NetSevenCommerece.DataAccess.csproj.CoreCompileInputs.cache
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.DataAccess\bin\Debug\net7.0\NetSevenCommerece.DataAccess.deps.json
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.DataAccess\bin\Debug\net7.0\NetSevenCommerece.DataAccess.runtimeconfig.json
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.DataAccess\bin\Debug\net7.0\NetSevenCommerece.DataAccess.dll
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.DataAccess\bin\Debug\net7.0\NetSevenCommerece.DataAccess.pdb
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.DataAccess\bin\Debug\net7.0\NetSevenCommerece.Models.dll
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.DataAccess\bin\Debug\net7.0\NetSevenCommerece.Models.pdb
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.DataAccess\obj\Debug\net7.0\NetSevenCommerece.DataAccess.csproj.CopyComplete
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.DataAccess\obj\Debug\net7.0\NetSevenCommerece.DataAccess.dll
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.DataAccess\obj\Debug\net7.0\refint\NetSevenCommerece.DataAccess.dll
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.DataAccess\obj\Debug\net7.0\NetSevenCommerece.DataAccess.pdb
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.DataAccess\obj\Debug\net7.0\NetSevenCommerece.DataAccess.genruntimeconfig.cache
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.DataAccess\obj\Debug\net7.0\ref\NetSevenCommerece.DataAccess.dll

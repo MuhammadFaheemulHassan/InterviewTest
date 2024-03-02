@@ -1,0 +1,12 @@
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Models\bin\Debug\net7.0\NetSevenCommerece.Models.deps.json
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Models\bin\Debug\net7.0\NetSevenCommerece.Models.dll
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Models\bin\Debug\net7.0\NetSevenCommerece.Models.pdb
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Models\obj\Debug\net7.0\NetSevenCommerece.Models.csproj.AssemblyReference.cache
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Models\obj\Debug\net7.0\NetSevenCommerece.Models.GeneratedMSBuildEditorConfig.editorconfig
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Models\obj\Debug\net7.0\NetSevenCommerece.Models.AssemblyInfoInputs.cache
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Models\obj\Debug\net7.0\NetSevenCommerece.Models.AssemblyInfo.cs
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Models\obj\Debug\net7.0\NetSevenCommerece.Models.csproj.CoreCompileInputs.cache
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Models\obj\Debug\net7.0\NetSevenCommerece.Models.dll
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Models\obj\Debug\net7.0\refint\NetSevenCommerece.Models.dll
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Models\obj\Debug\net7.0\NetSevenCommerece.Models.pdb
+G:\ASP Lessons\NetSevenCommerece\NetSevenCommerece.Models\obj\Debug\net7.0\ref\NetSevenCommerece.Models.dll

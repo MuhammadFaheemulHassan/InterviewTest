@@ -1,0 +1,31 @@
+﻿@model Category
+
+<form method="post">
+    <div class="row g-3">
+        @*if we write All then it will show all error msgs including properties errors and model errors  if we write ModelOnly then it will show only Model error not property error in summary tags if we write None then it will not show summary errors *@
+        <div asp-validation-summary="All"></div>
+        <div class="col-md-6 p-1">
+        <label for="Name" class="form-label">Category Name</label>
+        <input type="text" asp-for=Name class="form-control" id="Name">
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+        <div class="col-md-6 p-1">
+        <label for="DisplayOrder" class="form-label">Display Order</label>
+        <input type="number" asp-for="DisplayOrder" class="form-control" id="DisplayOrder">
+            <span asp-validation-for="DisplayOrder" class="text-danger"></span>
+    </div>
+    </div>
+    <div class="row g-3">
+    <div class="col-6">
+        <button type="submit" class="btn btn-primary">Create</button>
+    </div>
+    <div class="col-6">
+        <a asp-controller="Category" asp-action="Index" class="btn btn-primary">Back to list</a>
+    </div>
+    </div>
+</form>
+@section Scripts{
+    @{
+    <partial name="_ValidationScriptsPartial"/>
+    }
+}
